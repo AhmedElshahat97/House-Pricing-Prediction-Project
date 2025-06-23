@@ -41,3 +41,24 @@ The dataset used in this project was provided by IBM and includes:
 - Simple & Multiple Linear Regression
 - Polynomial & Ridge Regression
 - Model Evaluation using R², M
+
+## Results
+
+The final model was able to predict housing prices with a good performance. Techniques like **Ridge Regression** and **Cross-Validation** helped reduce overfitting and improve generalization on unseen data.
+
+## Live Project
+
+You can view the full project notebook and code here:
+👉 [Insert your GitHub link once uploaded]
+
+---
+
+### Note:
+
+This project was part of the official **IBM Data Analyst Certificate**, and follows real-world data analysis steps from business understanding to modeling and evaluation.
+
+---
+
+## Contact
+
+If you'd like to connect, feel free to reach out via [LinkedIn](https://www.linkedin.com) or check more of my work on my [Portfolio](https://ahmedelshahat97.github.io/Portfolio/)
