@@ -9,7 +9,6 @@ As a Data Analyst at a Real Estate Investment Trust, I was tasked with building 
 - Number of bedrooms
 - Number of bathrooms
 - Number of floors
-- Zip code
 - Year built, and more.
 
 The dataset includes residential house sales in **King County, Seattle**, between May 2014 and May 2015.
