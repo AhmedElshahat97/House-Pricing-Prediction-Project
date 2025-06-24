@@ -49,7 +49,7 @@ The final model was able to predict housing prices with a good performance. Tech
 ## Live Project
 
 You can view the full project notebook and code here:
-👉 [Insert your GitHub link once uploaded]
+👉 [Code/House_Sales_in_King_Count_USA.ipynb]
 
 ---
 
