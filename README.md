@@ -51,7 +51,7 @@ The final model was able to predict housing prices with a good performance. Tech
 You can view the full project notebook and code here:
 
 - 📓 [Project Notebook](Code/House_Sales_in_King_Count_USA.ipynb)
-- 📁 [Dataset](data/kc_house_data.csv)
+- 📁 [Dataset](Dataset/housing.csv)
 
 
 ---
